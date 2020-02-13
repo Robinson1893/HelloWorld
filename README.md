@@ -1,9 +1,7 @@
 # HelloWorld
 My First Project on GitHub 20161127
 
-<?php
+Hi,hubo
+  This is my first item on Github!
+  
 
-  echo 'Hello World!';
-  echo 'This is my first item on GitHub';
-
-?>
